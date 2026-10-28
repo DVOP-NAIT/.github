@@ -9,7 +9,7 @@ The DevOps program at NAIT.
 [All Brightspace courses duplicate this course](https://lms.nait.ca/d2l/home/77100)
 - Please contact Steven if you need access to this course.
 
-[Share Point for course development](https://naitca.sharepoint.com/) #TODO
+[Share Point for course development](https://naitca.sharepoint.com/teams/DevOps_3372ac/Shared%20Documents/Forms/AllItems.aspx?viewid=7a2c10f0%2Dab90%2D4132%2Da59c%2Dbe4af0b94fd5&FolderCTID=0x0120004700677793A5AD4BADD6A5CE3ED61807)
 - This has all of the course content for the DevOps program during development.
 - [Term 2 Course Development Milestone checklist](https://naitca.sharepoint.com/) #TODO
 - [All Word Templates for Learning Design Team](https://naitca.sharepoint.com/) #TODO
