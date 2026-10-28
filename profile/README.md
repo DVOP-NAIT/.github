@@ -1,1 +1,121 @@
-# Home page
+# DevOps @NAIT (DVOP)
+
+The DevOps program at NAIT.
+
+*Note if you want to edit this file with more resource please clone the [organization repo](https://github.com/DVOP-NAIT/.github) and edit the `profile/README.md` file. This is the file that displays the information you're reading right now.*
+
+## Resources
+
+[All Brightspace courses duplicate this course](https://lms.nait.ca/d2l/home/77100)
+- Please contact Steven if you need access to this course.
+
+[Share Point for course development](https://naitca.sharepoint.com/) #TODO
+- This has all of the course content for the DevOps program during development.
+- [Term 2 Course Development Milestone checklist](https://naitca.sharepoint.com/) #TODO
+- [All Word Templates for Learning Design Team](https://naitca.sharepoint.com/) #TODO
+- [Sample Course Design Document for Term 2](https://naitca.sharepoint.com/) #TODO
+
+[Sharepoint for the program](https://naitca.sharepoint.com/teams/SDEVProgramInstructors/Shared%20Documents/Forms/AllItems.aspx)
+- Will have a few resources for instructors here.
+
+[Starting Course Development? Here's the course files that you need (please don't remove any of the content just download them.)](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FGeneral%2FTemplates&viewid=64a7cd14%2D7601%2D49e2%2D8142%2Df36c41135519&csf=1&web=1&e=CiwNMo&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg0MjkuMjAxMzIiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=85387fa1%2Df010%2D0000%2D74a2%2D1ae0a3269683&cidOR=SPO&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C)
+- Note here's some [old starter files for reference](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FCourse%20Starter%20Files&viewid=64a7cd14%2D7601%2D49e2%2D8142%2Df36c41135519&csf=1&web=1&e=CiwNMo&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg0MjkuMjAxMzIiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=85387fa1%2Df010%2D0000%2D74a2%2D1ae0a3269683&cidOR=SPO&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C) if you're looking for them.
+
+## Course Building tools
+
+[NAIT Course Building Tools](https://github.com/SDEV-NAIT/nait-slide-builder)
+A set of tools to build content, contains:
+- A master course to section copier to copy content from a master course to a section course (for each semester)
+- A slide builder to create NAIT standard slides for presentations from markdown files
+- A workbook builder to create workbooks for students (for each semester)
+- A lesson plan builder to create word lesson plans (required for development) from yml files.
+
+[James Thompson AI (claude) toolkit](https://github.com/SDEV-NAIT/AI-claude-starter-kit)
+- A set of tools for using claude for course development.
+
+[Claytons Course Generator](https://github.com/claytona-nait/Course-Generator)
+Please ask Clayton Amelia for access to this repository.
+- sample courses using this tool [SYSA2010](https://github.com/claytona-nait/SYSA2010_course_summary)
+- sample courses using this tool [SYSA2120](https://github.com/claytona-nait/SYSA2120_Course_Summary)
+
+## Course Organizations and Primary Repositories
+
+- Course organizations should have the format **NAIT-DVOPxxxx** (where **xxxx** is the course number) Please contact Steven to create them.
+- If you don't have a primary repository for your course yet please contact Steven, who will create it for you.
+
+## Speaker Series
+
+We're trying out a speaker series for the DevOps program, ask if you want to bring someone in to speak to the students.
+[Tracking speaker series here](https://naitca.sharepoint.com/teams/SDEVProgramInstructors/_layouts/15/doc.aspx?sourcedoc={1b3f158b-7ed4-40e1-9eaf-fdca6685c5e6}&action=edit)
+
+### What should be in the course organization vs here?
+- **Course organization**: Assignment templates (anything for github classroom), semester example repos/workbooks, and student assignments. Essentially anything that students need to see or use.
+- **This organization**: Course Development, resources (the github "primary course repo" see [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide)), solutions. Essentialy anything that is only for instructors or contributors to the course.
+
+## Classier (in beta), Github Classroom (deprecated) and Organization Usage Tutorials
+
+#### Classier (in beta)
+
+- [Classier Introduction session](https://youtu.be/Vyr01bxy7sw)
+  - This is the introduction session for classier which is a github classroom replacement tool.
+
+#### Github Assignment Options
+- Until Classier is ready for list, use [these options](https://github.com/SDEV-NAIT/github-assignments) to manage Github assignments.
+
+#### Github Classroom (deprecated)
+
+
+## Courses
+
+Courses will loosely follow this [contributor guide](https://github.com/SDEV-NAIT/class-instructor-contributor-guide). If you're an instructor read it!
+
+### Term 1
+
+- Course Dev Primary: [SDEV1000 - Logic and Problem Solving](https://github.com/SDEV-NAIT/SDEV1000)
+- Course Dev Primary: [SDEV1001 - Programming Fundamentals](https://github.com/SDEV-NAIT/SDEV1001)
+  - Github Organization: [NAIT-SDEV1001](https://github.com/NAIT-SDEV1001)
+    - Fall 2025 Org: [NAIT-SDEV1001-Fall2025](https://github.com/NAIT-SDEV1001-Fall2025)
+      - please contact Dan Mouris to be added.
+- Course Dev Primary: [SDEV1150 - Introduction to Frontend Development](https://github.com/SDEV-NAIT/SDEV1150)
+  - Github Organization: [NAIT-SDEV1150](https://github.com/NAIT-SDEV1150)
+    - Fall 2025 Org: [NAIT-SDEV1150-Fall2025](https://github.com/NAIT-SDEV1150-Fall2025)
+      - please contact Nathan Humphrey to be added.
+- Course Dev Primary: [SDEV1201 - Database Fundamentals](https://github.com/SDEV-NAIT/SDEV1201)
+  - Looks like sharepoint was used for this course [SDEV1201 Sharepoint Link](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?CT=1757821498106&OR=OWA%2DNT%2DMail&CID=69ae4c45%2D6859%2Da1ee%2Dc082%2Da1dc51f79fe9&e=5%3Ad2dc7cd2ba3c41379cac269b289b1b5a&sharingv2=true&fromShare=true&at=9&cidOR=Client&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C&id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FTerm%201%2FPrescribed%20Core%2FSDEV1201%20%2D%20Database%20Fundamentals%2FJH%20documents)
+  - Github Organization: [NAIT-SDEV1201](https://github.com/orgs/NAIT-SDEV1201)
+- Course Dev Primary: [SDEV1701 - UX/UI for developers](https://github.com/SDEV-NAIT/SDEV1701)
+  - Github Organization: [NAIT-SDEV1701](https://github.com/orgs/NAIT-SDEV1701)
+
+### Term 2
+
+- Course Dev Primary: [SDEV2401 - Rapid Backend Development](https://github.com/SDEV-NAIT/SDEV2401)
+  - Github Organization: [NAIT-SDEV2401](https://github.com/NAIT-SDEV2401)
+- Course Dev Primary: [SDEV2301 - Introduction to Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2301)
+  - Github Organization: [NAIT-SDEV2301](https://github.com/NAIT-SDEV2301)
+- Course Dev Primary: [SDEV2150 - Intermediate Frontend Development](https://github.com/SDEV-NAIT/SDEV2150)
+  - Github Organization: [NAIT-SDEV2150](https://github.com/NAIT-SDEV2150)
+- [1801 System Analysis and Design](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=osSYxF&CID=b6254b74%2Dd8b2%2D40d0%2Da670%2D22db4b836fed&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C&id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FTerm%202%2FPrescribed%20Core%2FSDEV1801%20%2D%20Systems%20Analysis%20and%20Design) (Hosted on Sharepoint)
+- [1802 Collaborative Software Development Practices](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=u9rkHh&CID=4a9403f5%2D33f0%2D4a4e%2Db0dd%2D8bd81a901433&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C&id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FTerm%202%2FPrescribed%20Core%2FSDEV1802%20%2D%20Collaborative%20Software%20Development%20Practices) (Hosted on sharepoint)
+
+### Term 3
+
+- Course Dev Primary: [SDEV2501 - Data Science and Data Visualization](https://github.com/SDEV-NAIT/SDEV2501)
+  - [temp Share point link for content here](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FTerm%202%2FPrescribed%20Core%2FSDEV2501%20%2D%20Data%20Science%20and%20Data%20Visualization&viewid=64a7cd14%2D7601%2D49e2%2D8142%2Df36c41135519&csf=1&CT=1768520730231&OR=OWA%2DNT%2DMail&CID=08792761%2D036b%2D433b%2Db4a1%2D7397ec41bed8&clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNjAxMDIwMDMuMDQiLCJPUyI6IldpbmRvd3MgMTEifQ%3D%3D&cidOR=Client&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C)
+- Course Dev Primary: [SDEV2451 - Full Stack Development](https://github.com/SDEV-NAIT/SDEV2451)
+  - Github Organization: [NAIT-SDEV2451](https://github.com/NAIT-SDEV2451/)
+- Course Dev Primary: [SDEV2351 - Enterprise Application Development](https://github.com/SDEV-NAIT/SDEV2351)
+  - Github Organization: [NAIT-SDEV2351](https://github.com/NAIT-SDEV2351)
+- Course Dev Primary: [SDEV2171 - Mobile Application Development](https://github.com/SDEV-NAIT/SDEV2171)
+  - Github Organization: [NAIT-SDEV2171](https://github.com/NAIT-SDEV2171/)
+- [SDEV2801 - Technical Documentation and Facilitation](https://naitca.sharepoint.com/:f:/r/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Software%20Development%20Program/Term%203/Prescribed%20Core/SDEV2801%20-%20Technical%20Documentation%20and%20Facilitation?csf=1&web=1&e=fP2Oq8) (Hosted on sharepoint)
+
+### Term 4
+
+- Course Dev Primary: [SDEV3601 - Introduction to Developer Operations and Production Systems](https://github.com/SDEV-NAIT/SDEV3601)
+  - Github Organization: [NAIT-SDEV3601](https://github.com/NAIT-SDEV3601)
+- Course Dev Primary: [SDEV2551 - Introduction to Artificial Intelligence](https://github.com/SDEV-NAIT/SDEV2551)
+  - Github Organization: [NAIT-SDEV2551](https://github.com/NAIT-SDEV2551)
+- Course Dev Primary: [SDEV2201 - Business Intelligence Tools](https://github.com/SDEV-NAIT/SDEV2201)
+  - Github Organization: [NAIT-SDEV2201](https://github.com/NAIT-SDEV2201)
+- 3001 Capstone Project (Note this is on brightspace not on github due to no need for software examples)
+
