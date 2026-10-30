@@ -11,32 +11,19 @@ The DevOps program at NAIT.
 
 [Share Point for course development](https://naitca.sharepoint.com/teams/DevOps_3372ac/Shared%20Documents/Forms/AllItems.aspx?viewid=7a2c10f0%2Dab90%2D4132%2Da59c%2Dbe4af0b94fd5&FolderCTID=0x0120004700677793A5AD4BADD6A5CE3ED61807)
 - This has all of the course content for the DevOps program during development.
-- [Term 2 Course Development Milestone checklist](https://naitca.sharepoint.com/) #TODO
-- [All Word Templates for Learning Design Team](https://naitca.sharepoint.com/) #TODO
-- [Sample Course Design Document for Term 2](https://naitca.sharepoint.com/) #TODO
+- [Term 2 Course Development Milestone checklist](https://naitca.sharepoint.com/) #TODO JEREMY
+- [All Word Templates for Learning Design Team](https://naitca.sharepoint.com/teams/DevOps_3372ac/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDevOps%5F3372ac%2FShared%20Documents%2FGeneral%2F03%20%2D%20Templates&viewid=7a2c10f0%2Dab90%2D4132%2Da59c%2Dbe4af0b94fd5&FolderCTID=0x0120004700677793A5AD4BADD6A5CE3ED61807)
+- [Sample Course Design Document for Term 1](https://naitca.sharepoint.com/) #TODO JEREMY
 
-[Sharepoint for the program](https://naitca.sharepoint.com/teams/SDEVProgramInstructors/Shared%20Documents/Forms/AllItems.aspx)
+[Sharepoint for the program]() #TODO August 2027
 - Will have a few resources for instructors here.
 
-[Starting Course Development? Here's the course files that you need (please don't remove any of the content just download them.)](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FGeneral%2FTemplates&viewid=64a7cd14%2D7601%2D49e2%2D8142%2Df36c41135519&csf=1&web=1&e=CiwNMo&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg0MjkuMjAxMzIiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=85387fa1%2Df010%2D0000%2D74a2%2D1ae0a3269683&cidOR=SPO&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C)
-- Note here's some [old starter files for reference](https://naitca.sharepoint.com/teams/DMITDevelopmentProjectTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FDMITDevelopmentProjectTeam%2FShared%20Documents%2FSoftware%20Development%20Program%2FCourse%20Starter%20Files&viewid=64a7cd14%2D7601%2D49e2%2D8142%2Df36c41135519&csf=1&web=1&e=CiwNMo&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTg0MjkuMjAxMzIiLCAiT1MiIDogIldpbmRvd3MiIH0%3D&CID=85387fa1%2Df010%2D0000%2D74a2%2D1ae0a3269683&cidOR=SPO&FolderCTID=0x012000195C054AAD3EA643822D0F1A2942305C) if you're looking for them.
-
 ## Course Building tools
-
-[NAIT Course Building Tools](https://github.com/SDEV-NAIT/nait-slide-builder)
-A set of tools to build content, contains:
-- A master course to section copier to copy content from a master course to a section course (for each semester)
-- A slide builder to create NAIT standard slides for presentations from markdown files
-- A workbook builder to create workbooks for students (for each semester)
-- A lesson plan builder to create word lesson plans (required for development) from yml files.
-
-[James Thompson AI (claude) toolkit](https://github.com/SDEV-NAIT/AI-claude-starter-kit)
-- A set of tools for using claude for course development.
-
-[Claytons Course Generator](https://github.com/claytona-nait/Course-Generator)
-Please ask Clayton Amelia for access to this repository.
-- sample courses using this tool [SYSA2010](https://github.com/claytona-nait/SYSA2010_course_summary)
-- sample courses using this tool [SYSA2120](https://github.com/claytona-nait/SYSA2120_Course_Summary)
+- [Branded PPT Starter](https://naitca.sharepoint.com/:p:/r/teams/DevOps_3372ac/Shared%20Documents/General/03%20-%20Templates/04%20-%20PowerPoint%20Template%20NAIT.pptx?d=w2df14bf66cb0424696506860a8e0803d&csf=1&web=1&e=oXIxLn)
+- [Sample Syllabus](https://naitca.sharepoint.com/:w:/r/teams/DevOps_3372ac/Shared%20Documents/General/03%20-%20Templates/02%20SAMPLE%20-%20CMPE2400%20Course%20Syllabus%201242.docx?d=w626f71851c2d4316bc4681231f586202&csf=1&web=1&e=Qj9sAj)
+- [Brightspace Tutorials](https://www.nait.ca/lms/staff-resources#tabs-wp_3b58c9238bff41f3acccc83d94b106624)
+- [Assignment Sample]() #TODO Jeremy
+- [Lab Sample]() #TODO Jeremy
 
 ## Course Organizations and Primary Repositories
 
@@ -46,7 +33,7 @@ Please ask Clayton Amelia for access to this repository.
 ## Speaker Series
 
 We're trying out a speaker series for the DevOps program, ask if you want to bring someone in to speak to the students.
-[Tracking speaker series here](https://naitca.sharepoint.com/teams/SDEVProgramInstructors/_layouts/15/doc.aspx?sourcedoc={1b3f158b-7ed4-40e1-9eaf-fdca6685c5e6}&action=edit)
+[Tracking speaker series here]() #TODO
 
 ### What should be in the course organization vs here?
 - **Course organization**: Assignment templates (anything for github classroom), semester example repos/workbooks, and student assignments. Essentially anything that students need to see or use.
